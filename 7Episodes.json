@@ -1,0 +1,17 @@
+[  {
+  "image" : "https://www.eortv.com/originalimages/episodes/sadrakshanay/sadrakshanay.jpeg",
+  "link" : "654843683",
+  "name" : "Sadrakshanay - Marathi",
+  "paid" : "yes",
+  "skipat" : "0",
+  "id" : "1",
+  "skipto" : "0"
+}, {
+  "image" : "https://firebasestorage.googleapis.com/v0/b/eor-tv.appspot.com/o/Sadrakshanay%2Fweb.jpeg?alt=media&token=7789e39e-2b46-4327-b55e-b74fe4ee2803",
+  "link" : "654898600",
+  "name" : "Sadrakshanay - Hindi",
+  "paid" : "yes",
+  "id" : "2",
+  "skipat" : "0",
+  "skipto" : "0"
+} ]

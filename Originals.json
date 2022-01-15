@@ -1,0 +1,37 @@
+[ 
+{
+ "appbanner" : "https://eortv.com/originalimages/appsliders/eorthvanthem.jpg",
+  "banner" : "https://eortv.com/originalimages/horizontal/eortvanthem.jpg",
+  "image" : "https://eortv.com/originalimages/vertical/eortvanthem.jpg",
+  "name" : "EORTV Anthem",
+  "id" : "6"
+},
+{
+ "appbanner" : "https://eortv.com/originalimages/appsliders/gameofthesexes.jpg",
+  "banner" : "https://eortv.com/originalimages/horizontal/gameofthesexes.jpg",
+  "image" : "https://eortv.com/originalimages/vertical/gameofthesexes.jpg",
+  "name" : "Game Of The Sexes",
+  "id" : "4"
+}, 
+{
+ "appbanner" : "https://eortv.com/originalimages/appsliders/sadrakshanay.jpg",
+  "banner" : "https://eortv.com/originalimages/horizontal/sadrakshanay.jpg",
+  "image" : "https://eortv.com/originalimages/vertical/sadrakshanay.jpg",
+  "name" : "Sadrakshanay",
+  "id" : "7"
+}, 
+{
+  "appbanner" : "https://eortv.com/originalimages/appsliders/mombian.jpg",
+  "banner" : "https://eortv.com/originalimages/horizontal/mombian.jpg",
+  "image" : "https://eortv.com/originalimages/vertical/mombian.jpg",
+  "name" : "Mombian - Gul aur Sakshi ki Pyaaaaari Si Love Story",
+  "id" : "8"
+},
+{
+    "appbanner": "https://eortv.com/originalimages/appsliders/gots2.jpg",
+    "banner": "https://eortv.com/originalimages/horizontal/gots2.jpg",
+    "image": "https://eortv.com/originalimages/vertical/gots2.jpg",
+    "name": "Game Of The Sexes 2",
+    "id": "9"
+  }
+]

@@ -1,0 +1,81 @@
+[ {
+  "image" : "https://www.eortv.com/originalimages/episodes/gots2/episode1.jpg",
+  "link" : "663642145",
+  "name" : "Episode 1",
+  "paid" : "yes",
+  "id" : "1",
+  "skipat" : "00000",
+  "skipto" : "00000"
+}, {
+  "image" : "https://www.eortv.com/originalimages/episodes/gots2/episode2.jpg",
+  "link" : "663642171",
+  "link2" : "663641987",
+  "name" : "Episode 2",
+  "paid" : "yes",
+  "id" : "2",
+  "skipat" : "136000",
+  "skipat2" : "136000",
+  "skipto" : "184000",
+  "skipto2" : "184000"
+}, {
+  "image" : "https://www.eortv.com/originalimages/episodes/gots2/episode3.jpg",
+  "link" : "663304710",
+  "link2" : "663587867",
+  "name" : "Episode 3",
+  "paid" : "yes",
+  "skipat" : "81000", 
+  "id" : "3",
+  "skipat2" : "77000",
+  "skipto" : "128000",
+  "skipto2" : "124000"
+}, {
+  "image" : "https://www.eortv.com/originalimages/episodes/gots2/episode4.jpg",
+  "link" : "663587665",
+  "link2" : "663587912",
+  "name" : "Episode 4",
+  "paid" : "yes",
+  "skipat" : "161000",
+  "skipat2" : "139000",
+  "id" : "4",
+  "skipto" : "209000",
+  "skipto2" : "186000"
+}, {
+  "image" : "https://www.eortv.com/originalimages/episodes/gots2/episode5.jpg",
+  "link" : "663891192",
+  "name" : "Episode 5",
+  "paid" : "yes",
+  "skipat" : "82000",
+  "skipat2" : "82000",
+  "id" : "5",
+  "skipto" : "130000",
+  "skipto2" : "130000"
+}, {
+  "image" : "https://www.eortv.com/originalimages/episodes/gots2/episode6.jpg",
+  "link" : "663900172",
+  "link2" : "663587821",
+  "name" : "Episode 6",
+  "paid" : "yes",
+  "skipat" : "66000",
+  "skipat2" : "66000",
+  "id" : "6",
+  "skipto" : "113000",
+  "skipto2" : "113000"
+}, {
+  "image" : "https://www.eortv.com/originalimages/episodes/gots2/episode7.jpg",
+  "link" : "663587738",
+  "name" : "Episode 7",
+  "paid" : "yes",
+  "id" : "7",
+  "skipat" : "42000",
+  "skipto" : "90000"
+}, {
+  "image" : "https://www.eortv.com/originalimages/episodes/gots2/episode8.jpeg",
+  "link" : "663587764",
+  "name" : "Episode 8",
+  "paid" : "yes",
+  "id" : "8",
+  "skipat" : "8000",
+  "skipat2" : "8000",
+  "skipto" : "56000",
+  "skipto2" : "56000"
+} ]

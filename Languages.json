@@ -1,0 +1,57 @@
+[ {
+  "Shows" : [
+    {
+      "id" : "6",
+      "name" : "EORTV Anthem",
+      "image" : "https://eortv.com/originalimages/vertical/eortvanthem.jpg"
+  }],
+  "image" : "https://eortv.com/assets/English-min.jpg",
+  "name" : "English",
+  "id" : "1"
+}, {
+  "Shows" : [
+    {
+      "id" : "6",
+      "name" : "EORTV Anthem",
+      "image" : "https://eortv.com/originalimages/vertical/eortvanthem.jpg"
+    },
+     {
+      "id" : "7",
+      "name" : "Sadrakshanay",
+      "image" : "https://eortv.com/originalimages/vertical/sadrakshanay.jpg"
+  }],
+  "image" : "https://eortv.com/assets/Marathi-min.jpg",
+  "name" : "Marathi",
+  "id" : "3"
+}, {
+  "Shows" : [
+    {
+       "id" : "6",
+      "name" : "EORTV Anthem",
+      "image" : "https://eortv.com/originalimages/vertical/eortvanthem.jpg"
+  }],
+  "image" : "https://eortv.com/assets/Gujarati-min.jpg",
+  "name" : "Gujarati",
+  "id" : "4"
+}, {
+  "Shows" : [
+    {
+     "id" : "6",
+      "name" : "EORTV Anthem",
+      "image" : "https://eortv.com/originalimages/vertical/eortvanthem.jpg"
+  }],
+  "image" : "https://eortv.com/assets/Tamil-min.jpg",
+  "name" : "Tamil",
+  "id" : "5"
+},
+{
+  "Shows" : [
+   {
+      "id" : "6",
+      "name" : "EORTV Anthem",
+      "image" : "https://eortv.com/originalimages/vertical/eortvanthem.jpg"
+  }],
+  "image" : "https://eortv.com/assets/Telugu-min.jpg",
+  "name" : "Telugu",
+  "id" : "6"
+} ]
